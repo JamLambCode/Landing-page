@@ -20,19 +20,19 @@ h1{
     
     font-size: 48px;
     font-weight:bolder;
-    color: #F9FAF8;
+    color: #020826;
 }
 
 .header{
     display: flex;
     justify-content: space-around;
-    background-color: #1F2937;
+    background-color: #f9f4ef;
     
 }
 
 a{
     text-decoration: none;
-    color: #666;
+    color: #716040;
 }
 
 a:hover{
@@ -54,8 +54,8 @@ a:hover{
 }
 
 .section1{
-    color: #F9FAF8;
-    background-color: #1F2937;
+    color: #020826;
+    background-color: #fffffe;
     display: flex;
     justify-content: center;
     padding: 5vh;
@@ -66,8 +66,8 @@ a:hover{
 .sign-up-sec1 {
     border: 0;
     border-radius: 8px;
-    background-color: #3882F6;
-    color: #F9FAF8;
+    background-color: #eaddcf;
+    color: #716040;
     padding: 8px 15px;
     font-size: small;
 }
@@ -84,6 +84,7 @@ a:hover{
     flex-direction: column;
     align-items: center;
     text-align: center;
+    background-color: #f9f4ef;
 
 }
 
@@ -92,10 +93,12 @@ a:hover{
     width: 500px;
     align-items: center;
     gap:50px;
+    color: #716040;
 }
 
 .section3{
-    background-color: #E5E7EB;
+    background-color: #eaddcf;
+    color: #020826;
     text-align: center;
     padding: 0 20vh;
     font-style: italic;
@@ -105,31 +108,33 @@ a:hover{
     display: flex;
     justify-content: center;
     padding: 5vh;
+    background-color: #fffffe;
+
 }
 
 .content-color-setter{
-    background-color: #3882F6;
+    background-color: #eaddcf;
+    color: #716040;
     display: flex;
     flex: 0 1 auto;
     gap: 100px;
     padding:10px;
-    color: #F9FAF8;
     border-radius: 8px;
 }
 
 .right-side-button{
-    border: 1px solid #F9FAF8;
+    border: 2px solid #F9FAF8;
     border-radius: 8px;
-    background-color: #3882F6;
-    color: #F9FAF8;
+    background-color: #eaddcf;
+    color: #716040;
     padding: 0 20px;
     font-size: small;
 }
 
 .footer {
-    background-color: #1F2937;
+    background-color: #8c7851;
     text-align: center;
-    color:#F9FAF8;
+    color:#fffffe;
 }
 
 
