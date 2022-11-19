@@ -58,8 +58,18 @@ a:hover{
     background-color: #1F2937;
     display: flex;
     justify-content: center;
+    padding: 5vh;
 
 
+}
+
+.sign-up-sec1 {
+    border: 0;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 15px;
+    font-size: small;
 }
 
 .left-side-content{
@@ -90,4 +100,38 @@ a:hover{
     padding: 0 20vh;
     font-style: italic;
 }
+
+.section4{
+    display: flex;
+    justify-content: center;
+    padding: 5vh;
+}
+
+.content-color-setter{
+    background-color: #3882F6;
+    display: flex;
+    flex: 0 1 auto;
+    gap: 100px;
+    padding:10px;
+    color: #F9FAF8;
+    border-radius: 8px;
+}
+
+.right-side-button{
+    border: 1px solid #F9FAF8;
+    border-radius: 8px;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 0 20px;
+    font-size: small;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color:#F9FAF8;
+}
+
+
+
 
