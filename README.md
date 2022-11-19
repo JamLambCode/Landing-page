@@ -23,8 +23,3 @@ This is a landing page created using HTML and CSS. The project is from The Odin 
 * Crafted custom theming for the page.
 * Used outsorced fonts from Google to make the page more presentable.
 * Overall, greatly improved the ways that I am able to craft the skeleton of a website- maintaining both legibility and aestheticism.
-
-
-
-You can check out the code here:
-https://jamlambcode.github.io/Landing-page/
