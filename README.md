@@ -1,6 +1,6 @@
 # Landing-page
 
-This is a landing page created using HTML and CSS. The project is from The Odin Project [curriculem](https://www.theodinproject.com/lessons/foundations-landing-page).
+This is a landing page created using HTML and CSS. The project is from The Odin Project [curriculum](https://www.theodinproject.com/lessons/foundations-landing-page).
 
 :link:	**Live preview** of the project can be found [here](https://jamlambcode.github.io/Landing-page/).
 
